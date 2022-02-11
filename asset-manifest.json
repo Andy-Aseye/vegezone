@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vegezone/static/css/main.1fa22e80.css",
+    "main.js": "/vegezone/static/js/main.e3bd3d9d.js",
+    "static/js/787.f2d3822f.chunk.js": "/vegezone/static/js/787.f2d3822f.chunk.js",
+    "static/media/kung-pao.jpg": "/vegezone/static/media/kung-pao.93c4bd48f20afcab49df.jpg",
+    "static/media/flower-3.jpg": "/vegezone/static/media/flower-3.622ab6a08d8c7cad7ff0.jpg",
+    "static/media/flower-4.jpg": "/vegezone/static/media/flower-4.1fff8fa3d7412756d6a1.jpg",
+    "static/media/doctor.jpg": "/vegezone/static/media/doctor.a5f6211941b0942046ef.jpg",
+    "static/media/frutas.png": "/vegezone/static/media/frutas.ec6ff7449e4d6c8b3918.png",
+    "static/media/flower-2.jpg": "/vegezone/static/media/flower-2.7fb02b59a7bc4d2845e7.jpg",
+    "static/media/flower-1.jpg": "/vegezone/static/media/flower-1.188e35905f0960c608a3.jpg",
+    "static/media/fajitas.jpg": "/vegezone/static/media/fajitas.b99a879197e33294ac57.jpg",
+    "static/media/veg.png": "/vegezone/static/media/veg.e78fce6b5d074a05dcbe.png",
+    "index.html": "/vegezone/index.html",
+    "main.1fa22e80.css.map": "/vegezone/static/css/main.1fa22e80.css.map",
+    "main.e3bd3d9d.js.map": "/vegezone/static/js/main.e3bd3d9d.js.map",
+    "787.f2d3822f.chunk.js.map": "/vegezone/static/js/787.f2d3822f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa22e80.css",
+    "static/js/main.e3bd3d9d.js"
+  ]
+}
